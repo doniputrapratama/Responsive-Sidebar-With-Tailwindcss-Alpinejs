@@ -1,1 +1,1 @@
-# Responsive-Sidebar-With-Tailwindcss-Alpinejs
+# Responsive Sidebar With Tailwindcss & Alpinejs.
